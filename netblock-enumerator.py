@@ -14,7 +14,7 @@ from tabulate import tabulate
 # api-endpoint
 URL = "https://ip-netblocks.whoisxmlapi.com/api/v2"
 
-# add your API key here (free from https://ip-netblocks.whoisxmlapi.com/)
+# add your API key here (free from https://ip-netblocks.whoisxmlapi.com/api/signup)
 key = ''
 
 
