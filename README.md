@@ -85,3 +85,8 @@ Then run range2cidr.py:
 ```
 python range2cidr.py -i ranges.txt -o cidrs.txt
 ```
+
+## ToDo
+
+1. Combine netblock-enumerator and range2cidr.
+2. Tidy output for command line and CSV.
